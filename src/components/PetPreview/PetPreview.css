@@ -1,0 +1,13 @@
+.profile-pic {
+    width: 20vh;
+    border: 2px solid #f1f1f1;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 2vh;
+}
+
+.card {
+    padding: 1vh;
+    border: 1px solid #f1f1f1;
+    border-radius: 2vh;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,16 @@
+.pets-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 3vh;
+}
+
+.add-pet-button {
+    position: fixed;
+    top: 2vb;
+    right: 2vh;
+    background-color: #287c28;
+    color: white;
+}
